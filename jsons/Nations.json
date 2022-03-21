@@ -3,7 +3,7 @@
     "name": "Russia",
     "leaderName": "Vladimir Putin",
     "adjective": ["Russian"],
-    "startBias": ["Tundra","Forest"],
+    "startBias": ["Tundra"],
     "preferredVictoryType": "Domination",
 
     "startIntroPart1": "After the collapse of the Soviet Union, the new Russia fell into a deep social and economic crisis. Throughout the nineties, Yeltsin's gang tried to pull Russia out of the abyss of the crisis, but nothing came of it. After the successful suppression of the Chechen resistance under your leadership, you, Vladimir Vladimirovich Putin, will lead the new Russia and return its glorious name!",
@@ -18,7 +18,7 @@
     "innerColor": [255,255,255],
 
     "uniqueName": "Siberian Riches",
-    "uniques": ["[+1 Production] from [Strategic resource] tiles","+[1]% Strength from every [Strategic resource] <for [Melee] units> <when at war>","Double quantity of [Horses] produced"],
+    "uniques": ["[+1 Production] from every [Strategic resource]","+[1]% Strength from every [Strategic resource]","Double quantity of [Horses] produced"],
     "cities": ["Moskva","Sankt-Peterburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm'",
