@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Lavra",
+		"replaces": "Shrine",
+		"cost": 50,
+		"uniqueTo": "Russia",
+		"Culture": 2,
+		"Faith": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Pottery",
+	},
+]
+		
