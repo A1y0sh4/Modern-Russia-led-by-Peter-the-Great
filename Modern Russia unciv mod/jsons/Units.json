@@ -67,7 +67,7 @@
 		"strength": 25,
 		"cost": 170,
 		"requiredTech": "Gunpowder",
-		"uniques": ["+[20]% strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["+[20]% strength when fighting in [Friendly Land] tiles"],
 		"attackSound": "shot"
   }
 ]
