@@ -21,11 +21,11 @@ NationIcons/Russia
   BuildingIcons/Lavra
   rotate: false
   xy: 104, 2
-  size: 100, 100
+  size: 800, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Strel'cy
+UnitIcons/Strelcy
   rotate: false
   xy: 1340, 520
   size: 360, 360
