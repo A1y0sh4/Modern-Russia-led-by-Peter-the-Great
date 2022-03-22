@@ -25,7 +25,7 @@ NationIcons/Russia
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Strelcy
+UnitIcons/Strel'cy
   rotate: false
   xy: 1340, 520
   size: 360, 360
