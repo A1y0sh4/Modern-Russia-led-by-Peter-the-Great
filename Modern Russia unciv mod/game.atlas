@@ -18,6 +18,20 @@ NationIcons/Russia
   orig: 800, 800
   offset: 0, 0
   index: -1
+  TileSets/FantasyHex/Units/Strel'cy
+  rotate: false
+  xy: 4, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lavra
+  rotate: false
+  xy: 1340, 484
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
   BuildingIcons/Lavra
   rotate: false
   xy: 812, 4
