@@ -10,7 +10,7 @@
 		"strength": 25,
 		"cost": 160,
 		"requiredTech": "Gunpowder",
-	        "upgradesTo": "Rifleman"
+	        "upgradesTo": "Rifleman",
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
 		"attackSound": "shot"
   }
