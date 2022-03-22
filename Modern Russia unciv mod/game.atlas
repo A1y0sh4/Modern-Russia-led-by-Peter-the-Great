@@ -20,9 +20,9 @@ NationIcons/Russia
   index: -1
   BuildingIcons/Lavra
   rotate: false
-  xy: 104, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 812, 4
+  size: 348, 348
+  orig: 348, 348
   offset: 0, 0
   index: -1
 UnitIcons/Strel'cy
