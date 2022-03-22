@@ -14,14 +14,16 @@
     "neutralHello": "Hello!",
     "hateHello": "Your sanctions only make Russia stronger.",
     "tradeRequest": "How would you like it if I propose this kind of exchange?",
-    "outerColor": [0,148,255],
-    "innerColor": [255,255,255],
+    "outerColor": [0,240,180],
+    "innerColor": [0,0,0],
+	  
+    "favoredReligion": "Christianity",
 
     "uniqueName": "Siberian Riches",
     "uniques": ["[+1 Production] from every [Strategic resource]","[+1 Production] from every [Tundra]","Double quantity of [Horses] produced"],
     "cities": ["Moskva","Sankt-Peterburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm'",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal'","Magnitogorsk","Syktyvkar"]
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal'","Syktyvkar","Magnitogorsk"]
   }
 ]
