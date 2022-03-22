@@ -14,7 +14,7 @@
     "neutralHello": "Hello!",
     "hateHello": "Your sanctions only make Russia stronger.",
     "tradeRequest": "How would you like it if I propose this kind of exchange?",
-    "outerColor": [0,240,180],
+    "outerColor": [240,180,0],
     "innerColor": [0,0,0],
 	  
     "favoredReligion": "Christianity",
