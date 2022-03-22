@@ -4,13 +4,6 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/Vladimir Putin
-  rotate: false
-  xy: 1708, 591
-  size: 289, 289
-  orig: 289, 289
-  offset: 0, 0
-  index: -1
 NationIcons/Russia
   rotate: false
   xy: 4, 80
