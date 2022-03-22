@@ -32,10 +32,10 @@ NationIcons/Russia
   orig: 360, 360
   offset: 0, 0
   index: -1
-  UnitIcons/Strel'cy
+  TileSets/FantasyHex/Units/Strel'cy
   rotate: false
-  xy: 1340, 520
-  size: 360, 360
-  orig: 360, 360
+  xy: 4, 44
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
