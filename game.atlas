@@ -18,3 +18,24 @@ NationIcons/Russia
   orig: 800, 800
   offset: 0, 0
   index: -1
+  UnitIcons/Lavra
+  rotate: false
+  xy: 812, 4
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1
+  UnitIcons/Strel'cy
+  rotate: false
+  xy: 1340, 520
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+  UnitIcons/Strel'cy
+  rotate: false
+  xy: 1340, 520
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
