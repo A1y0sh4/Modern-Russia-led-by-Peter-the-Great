@@ -1,0 +1,17 @@
+[
+  // Russia
+  
+{
+    "name": "Strel'cy",
+    "unitType": "Melee",
+    "uniqueTo": "Russia",
+    "replaces": "Musketman",
+		"movement": 2,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Gunpowder",
+	        "upgradesTo": "Rifleman",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "shot"
+  }
+]
