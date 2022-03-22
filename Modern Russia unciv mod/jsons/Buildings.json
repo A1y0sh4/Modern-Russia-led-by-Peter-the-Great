@@ -8,7 +8,7 @@
 		"faith": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 20,
-		"requiredTech": "Pottery",
-	},
+		"requiredTech": "Pottery"
+	}
 ]
 		
