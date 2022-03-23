@@ -6,7 +6,7 @@
 		"uniqueTo": "Russia",
 		"faith": 2,
 		"culture": 1,
-		"maintenance": 2,
+		"maintenance": 3,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
 	}
