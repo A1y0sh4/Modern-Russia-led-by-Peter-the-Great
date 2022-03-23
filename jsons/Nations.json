@@ -4,7 +4,7 @@
     "leaderName": "Vladimir Putin",
     "adjective": ["Russian"],
     "startBias": ["Tundra"],
-    "preferredVictoryType": "Domination",
+    "preferredVictoryType": "Scientific",
 
     "startIntroPart1": "After the collapse of the Soviet Union, the new Russia fell into a deep social and economic crisis. Throughout the nineties, Yeltsin's gang tried to pull Russia out of the abyss of the crisis, but nothing came of it. After the successful suppression of the Chechen resistance under your leadership, you, Vladimir Vladimirovich Putin, will lead the new Russia and return its glorious name!",
     "declaringWar": "In the most difficult time of the war, in the decisive battles that determined the outcome of the struggle against the enemy, our people were alone, alone on the difficult, heroic and sacrificial path to Victory.",
@@ -16,7 +16,6 @@
     "tradeRequest": "How would you like it if I propose this kind of exchange?",
     "outerColor": [240,180,0],
     "innerColor": [0,0,0],
-    "uniqueName": "Charismatic, Expansive",
 	  
     "favoredReligion": "Christianity",
 
