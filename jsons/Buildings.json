@@ -2,12 +2,11 @@
 	{
 		"name": "Lavra",
 		"replaces": "Shrine",
-		"cost": 40,
+		"cost": 20,
 		"uniqueTo": "Russia",
-		"culture": 1,
 		"faith": 2,
-		"maintenance": 1,
-		"hurryCostModifier": 20,
+		"maintenance": 2,
+		"hurryCostModifier": 8,
 		"requiredTech": "Pottery"
 	}
 ]
