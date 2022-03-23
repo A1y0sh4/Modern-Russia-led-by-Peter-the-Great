@@ -1,7 +1,7 @@
 [
   {
     "name": "Russia",
-    "leaderName": "Peter the Great",
+    "leaderName": "Peter I",
     "adjective": ["Russian"],
     "startBias": ["Tundra"],
     "preferredVictoryType": "Scientific",
