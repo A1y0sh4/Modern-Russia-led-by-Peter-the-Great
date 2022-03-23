@@ -26,5 +26,77 @@
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
-  }
+  },
+	{
+		"name": "Krakow",
+		"adjective": ["Polish"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 92, 58],
+		"cities": ["Krakow"]
+	},
+	{
+		"name": "Kiev",
+		"adjective": ["Rusians"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,148,255],
+		"cities": ["Kiev"]
+	},
+	{
+		"name": "Kazan",
+		"adjective": ["Tatar"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [157,172,255],
+		"cities": ["Kazan"]
+	},
+	{
+		"name": "Yerevan",
+		"adjective": ["Armenian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 194, 185],
+		"cities": ["Yerevan"]
+	},
+	{
+		"name": "Minsk",
+		"adjective": ["Belarusian"],
+		"cityStateType": "Cultured",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116,55,25],
+		"cities": ["Minsk"]
+	},
+	{
+		"name": "Vilnius",
+		"adjective": ["Lithuanian"],
+		"cityStateType": "Cultured",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51,153,255],
+		"cities": ["Vilnius"]
+	}
 ]
