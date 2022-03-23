@@ -50,7 +50,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,148,255],
+		"innerColor": [69,175,255],
 		"cities": ["Kiev"]
 	},
 	{
@@ -95,7 +95,7 @@
 	{
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Maritime",
 		"startBias": ["Forest","Grassland"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
