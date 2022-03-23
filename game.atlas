@@ -21,8 +21,8 @@ TileSets/FantasyHex/Units/Strel'cy
 UnitIcons/Strel'cy
   rotate: false
   xy: 1330, 520
-  size: 360, 360
-  orig: 360, 360
+  size: 380, 380
+  orig: 380, 380
   offset: 0, 0
   index: -1
 BuildingIcons/Lavra
