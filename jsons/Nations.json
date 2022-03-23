@@ -31,6 +31,7 @@
 		"name": "Krakow",
 		"adjective": ["Polish"],
 		"cityStateType": "Militaristic",
+		"startBias": ["Forest","Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -43,6 +44,7 @@
 		"name": "Kiev",
 		"adjective": ["Rusians"],
 		"cityStateType": "Militaristic",
+		"startBias": ["Forest","Plains"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -55,6 +57,7 @@
 		"name": "Kazan",
 		"adjective": ["Tatar"],
 		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -67,6 +70,7 @@
 		"name": "Yerevan",
 		"adjective": ["Armenian"],
 		"cityStateType": "Religious",
+		"startBias": ["Hill","Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -79,6 +83,7 @@
 		"name": "Minsk",
 		"adjective": ["Belarusian"],
 		"cityStateType": "Cultured",
+		"startBias": ["Forest","Grassland"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -91,6 +96,7 @@
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
 		"cityStateType": "Cultured",
+		"startBias": ["Forest","Grassland"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
