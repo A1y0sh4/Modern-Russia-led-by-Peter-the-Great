@@ -50,7 +50,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [69,175,255],
+		"innerColor": [42,175,255],
 		"cities": ["Kiev"]
 	},
 	{
@@ -63,7 +63,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [157,172,255],
+		"innerColor": [180,160,255],
 		"cities": ["Kazan"]
 	},
 	{
