@@ -95,7 +95,7 @@
 	{
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Maritime","Grassland",
 		"startBias": ["Coast"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -109,13 +109,13 @@
 		"name": "Zurich",
 		"adjective": ["Swiss"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Lake"],
+		"startBias": ["Lake","Mountain"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [102, 178, 255],
+		"innerColor": [100, 170, 230],
 		"cities": ["Zurich"]
 	}
 ]
