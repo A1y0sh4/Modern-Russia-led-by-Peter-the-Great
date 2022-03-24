@@ -95,7 +95,7 @@
 	{
 		"name": "Vilnius",
 		"adjective": ["Lithuanian"],
-		"cityStateType": "Maritime","Grassland",
+		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
