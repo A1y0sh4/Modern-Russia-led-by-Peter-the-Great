@@ -5,8 +5,8 @@
 		"cost": 30,
 		"uniqueTo": "Russia",
 		"faith": 2,
-		"culture": 1,
-		"maintenance": 3,
+		"culture": 2,
+		"maintenance": 4,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
 	}
