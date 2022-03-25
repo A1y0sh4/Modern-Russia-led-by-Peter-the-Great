@@ -21,7 +21,7 @@
     "favoredReligion": "Christianity",
 
     "uniqueName": "The Grand Embassy",
-    "uniques": ["[+1 Production] [in capital] from each Trade Route","[+3 Science] from each Trade Route","[+3 Culture] from each Trade Route"],
+    "uniques": ["[+1 Production] [in capital] from every Trade Route","[+3 Science] from each Trade Route","[+3 Culture] from each Trade Route"],
     "cities": ["St. Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
