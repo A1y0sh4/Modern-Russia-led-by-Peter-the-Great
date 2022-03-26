@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Nationalism", // only for Strel'cy and subsequent upgrades
+		"name": "Nationalism",
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	}
 ]
