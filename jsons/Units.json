@@ -3,7 +3,7 @@
   
 {
     "name": "Strel'cy",
-    "unitType": "Sword",
+    "unitType": "Gunpowder",
     "uniqueTo": "Russia",
     "replaces": "Musketman",
 		"movement": 2,
