@@ -3,7 +3,7 @@
   
 {
     "name": "Strel'cy",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "uniqueTo": "Russia",
     "replaces": "Musketman",
 		"movement": 2,
