@@ -28,8 +28,8 @@ UnitIcons/Strel'cy
   UnitPromotionIcons/Nationalism
   rotate: false
   xy: 812, 360
-  size: 348, 348
-  orig: 348, 348
+  size: 520, 520
+  orig: 520, 520
   offset: 0, 0
   index: 0
 BuildingIcons/Lavra
