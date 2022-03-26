@@ -27,9 +27,9 @@ UnitIcons/Strel'cy
   index: -1
   UnitPromotionIcons/Strel'cy
   rotate: false
-  xy: 812, 360
-  size: 520, 520
-  orig: 520, 520
+  xy: 1330, 520
+  size: 348, 348
+  orig: 348, 348
   offset: 0, 0
   index: -1
 BuildingIcons/Lavra
