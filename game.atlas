@@ -25,6 +25,13 @@ UnitIcons/Strel'cy
   orig: 348, 348
   offset: 0, 0
   index: -1
+  UnitPromotionIcons/Strel'cy
+  rotate: false
+  xy: 812, 360
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1
 BuildingIcons/Lavra
   rotate: false
   xy: 812, 4
