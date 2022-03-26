@@ -8,12 +8,12 @@
     "replaces": "Musketman",
 		"movement": 2,
 		"strength": 25,
-		"cost": 150,
+		"cost": 160,
 		"requiredTech": "Gunpowder",
 	        "upgradesTo": "Rifleman",
 	        "requiredResource": "Iron",
 	        "obsoleteTech": "Rifling",
-		"promotions": ["Nationalism"],
+		"promotions": ["Nationalism","Besiege"],
 		"attackSound": "shot"
   }
 ]
