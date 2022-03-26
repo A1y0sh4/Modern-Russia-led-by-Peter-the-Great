@@ -13,7 +13,7 @@
 	        "upgradesTo": "Rifleman",
 	        "requiredResource": "Iron",
 	        "obsoleteTech": "Rifling",
-		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"promotions": ["Nationalism"],
 		"attackSound": "shot"
   }
 ]
