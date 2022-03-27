@@ -21,7 +21,7 @@
     "favoredReligion": "Christianity",
 
     "uniqueName": "The Grand Embassy",
-    "uniques": ["[+3 Production] from each Trade Route","[+3 Science] from each Trade Route","[+3 Culture] from each Trade Route","[+20]% [Science] [in all cities connected to capital] <during a Golden Age>","Empire enters golden age","[+25]% Unhappiness from population [in all non-occupied cities]"],
+    "uniques": ["[+3 Production] from each Trade Route","[+3 Science] from each Trade Route","[+3 Culture] from each Trade Route","[+20]% [Science] [in all cities connected to capital] <during a Golden Age>","Provides a [Palace] in your first [2] cities for free","[+25]% Unhappiness from population [in all non-occupied cities]"],
     "cities": ["St. Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
