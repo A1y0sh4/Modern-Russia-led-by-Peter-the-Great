@@ -8,7 +8,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
-		"greatPersonPoints": {"Great Artist": 1}",
+		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": ["[+1 Faith] [in this city] if within [2] tiles of a [Tundra]"]
 	}
 ]
