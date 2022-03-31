@@ -5,7 +5,7 @@
 		"cost": 60,
 		"uniqueTo": "Russia",
 		"faith": 2,
-		"maintenance": 2,
+		"maintenance": 3,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
 		"greatPersonPoints": {"Great Artist": 1},
