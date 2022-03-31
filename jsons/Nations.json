@@ -21,7 +21,7 @@
     "favoredReligion": "Christianity",
 
     "uniqueName": "The Grand Embassy",
-    "uniques": ["[+2 Production, +2 Science, +2 Culture] from each Trade Route <while the empire is happy>","[+1 Science, +1 Culture, +1 Faith] from every specialist [in all cities connected to capital] <during a Golden Age> <while the empire is happy>","[-1 Happiness] per [4] population [in all cities]","Receive free [Great General] when you discover [Scientific Theory]"],
+    "uniques": ["[+2 Production, +2 Science, +2 Culture] from each Trade Route <while the empire is happy>","[+20]% [Science] [in all cities connected to capital] <during a Golden Age> <while the empire is happy>","[-1 Happiness] per [4] population [in all cities]","Receive free [Great General] when you discover [Scientific Theory]"],
     "cities": ["St. Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
