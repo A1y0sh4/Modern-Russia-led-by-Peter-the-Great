@@ -2,13 +2,14 @@
 	{
 		"name": "Lavra",
 		"replaces": "Shrine",
-		"cost": 50,
+		"cost": 60,
 		"uniqueTo": "Russia",
-		"faith": 2,
-		"culture": 1,
+		"faith": 1,
 		"maintenance": 2,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
+		"greatPersonPoints": {"Great Artist": 1}",
+		"uniques": ["[+1 Faith] [in this city] if within [2] tiles of a [Tundra]"]
 	}
 ]
 		
