@@ -2,7 +2,7 @@
 	{
 		"name": "Lavra",
 		"replaces": "Shrine",
-		"cost": 60,
+		"cost": 40,
 		"uniqueTo": "Russia",
 		"faith": 2,
 		"maintenance": 3,
