@@ -4,12 +4,12 @@
 		"replaces": "Shrine",
 		"cost": 60,
 		"uniqueTo": "Russia",
-		"faith": 1,
+		"faith": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["[+1 Faith] [in this city] if within [2] tiles of a [Tundra]"]
+	        "uniques": ["Must be on [Tundra]"]
 	}
 ]
 		
