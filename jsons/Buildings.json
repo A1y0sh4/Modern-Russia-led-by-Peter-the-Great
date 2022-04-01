@@ -2,13 +2,13 @@
 	{
 		"name": "Lavra",
 		"replaces": "Shrine",
-		"cost": 60,
+		"cost": 40,
 		"uniqueTo": "Russia",
 		"faith": 2,
-		"maintenance": 3,
+		"maintenance": 2,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
-	        "uniques": ["Must have an owned [Tundra] within [3] tiles", "[+3]% great person generation [in all cities connected to capital]"]
+	        "uniques": ["Must have an owned [Tundra] within [2] tiles", "[+2]% great person generation [in all cities connected to capital]"]
 	}
 ]
 		
