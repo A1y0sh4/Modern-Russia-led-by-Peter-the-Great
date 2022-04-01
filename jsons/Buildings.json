@@ -8,7 +8,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 1,
 		"requiredTech": "Pottery"
-	        "uniques": ["Must have an owned [Tundra] within [2] tiles", "[+1]% great person generation per [2] population in your first [2] cities"]
+	        "uniques": ["Must have an owned [Tundra] within [2] tiles", "[+3]% great person generation [in all cities connected to capital]"]
 	}
 ]
 		
