@@ -1,14 +1,15 @@
 [
 	{
 		"name": "Lavra",
-		"replaces": "Shrine",
-		"cost": 30,
+		"replaces": "Temple",
+		"cost": 100,
 		"uniqueTo": "Russia",
 		"faith": 2,
+		"greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 2,
-		"hurryCostModifier": 1,
-		"requiredTech": "Pottery"
-	        "uniques": ["Must have an owned [Tundra] within [6] tiles","[+2]% Great Person generation [in all cities connected to capital]"]
+		"hurryCostModifier": 2,
+		"requiredTech": "Theology"
+	        "uniques": ["Requires a [Shrine] [in this city]","[+2 Faith] <when next to [Tundra]>"]
 	}
 ]
 		
