@@ -9,7 +9,6 @@
 		"maintenance": 2,
 		"hurryCostModifier": 2,
 		"requiredTech": "Theology"
-	        "uniques": ["Requires a [Shrine] [in this city]"]
+	        "uniques": ["Requires a [Shrine] [in this city]","[+1 Faith] from [Tundra] tiles [in this city] <after discovering [Scientific Theory]>"]
 	}
 ]
-		
