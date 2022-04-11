@@ -9,7 +9,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 2,
 		"requiredTech": "Theology"
-	        "uniques": ["Hidden when religion is disabled","Requires [Shrine] to be built in the city","[+1 Science] from every [Strategic resource] <when in [Tundra]> <after discovering [Scientific Theory]>"]
+	        "uniques": ["Hidden when religion is disabled","Requires [Shrine] to be built in the city","[+1 Science] from every [Strategic resource] <when in [Tundra] tiles> <after discovering [Scientific Theory]>"]
 	}
 ]
 
