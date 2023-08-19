@@ -9,7 +9,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 2,
 		"requiredTech": "Theology"
-	        "uniques": ["Hidden when religion is disabled", "Requires [Shrine] to be built in the city", "[-25]% Culture cost of natural border growth [in this city]", "[-25]% Gold cost of acquiring tiles [in this city]"]
+	        "uniques": ["Hidden when religion is disabled", "Requires [Shrine] to be built in the city", "[-25]% Culture cost of natural border growth [in this city]"]
 	}
 ]
 
