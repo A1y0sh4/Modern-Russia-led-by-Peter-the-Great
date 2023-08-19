@@ -8,9 +8,9 @@
 
     "startIntroPart1": "Greetings upon thee, Your Imperial Majesty Peter, wondrous Emperor of all the Russias. At your command lies the largest country in the world. Mighty Russia stretches from the Pacific Ocean in the east to the Baltic Sea in the west. Despite wars, droughts, and every manner of disaster the heroic Russian people survive and prosper, their artists and scientists among the best in the world. The Empire today remains one of the strongest ever seen in human history - a true superpower, with the greatest destructive force ever devised at her command.",
     "startIntroPart2": "Peter, your people look to you to bring forth glorious days for Russia and her people, to revitalize the land and recapture the wonder of the Enlightenment. Will you lead your people once more into greatness? Can you build a civilization that will stand the test of time?",
-    "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
-    "attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
-    "defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+    "declaringWar": "I hereby proclaim you an enemy to Russia, our allies, and God, may he have mercy on your soul.",
+    "attacked": "Your war is futile. It's impossible to defeat Russia! Whoever will come to us with a sword, from a sword will perish!",
+    "defeated": "I am defeated. To live one's life is not like crossing a field.",
     "introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
     "neutralHello": "Hello!",
     "hateHello": "What do you need?!",
@@ -21,7 +21,7 @@
     "favoredReligion": "Christianity",
 
     "uniqueName": "The Grand Embassy",
-    "uniques": ["[+3 Production, +3 Science, +3 Culture] from each Trade Route <when at war>","[+20]% [Science] [in all cities connected to capital] <during a Golden Age>"],
+    "uniques": ["[+1 Science, +1 Culture] from each Trade Route", "[+20]% [Science] [in all cities connected to capital] <during a Golden Age>"],
     "cities": ["St. Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
