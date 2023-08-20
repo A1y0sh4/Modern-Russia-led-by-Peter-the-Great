@@ -1,0 +1,4 @@
+{
+  "buildingsToRemove": ["Krepost"],
+  "unitsToRemove": ["Cossack"]
+}
