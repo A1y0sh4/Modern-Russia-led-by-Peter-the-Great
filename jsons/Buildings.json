@@ -5,11 +5,12 @@
 		"cost": 100,
 		"uniqueTo": "Russia",
 		"faith": 2,
+		"requiredBuilding": "Shrine",
 		"greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 2,
 		"requiredTech": "Philosophy"
-	        "uniques": ["Hidden when religion is disabled", "Requires [Shrine] to be built in the city", "[-25]% Culture cost of natural border growth [in this city]"]
+	        "uniques": ["Hidden when religion is disabled", "[-50]% Culture cost of natural border growth [in this city]"]
 	}
 ]
 
